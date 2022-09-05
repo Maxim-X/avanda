@@ -1,0 +1,39 @@
+.topMenuD{
+    height: 66px !important;
+    padding: 0px 25px !important;
+    margin: 0px !important;
+}
+.UserName {
+    display: flex;
+}
+
+.UserName p {
+    margin: 0px;
+}
+
+.UserName .icon {
+    background: #4c70f0;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 43px;
+    border-radius: 15px;
+    color: #cbd6ff;
+    font-size: 21px;
+}
+
+.UserName .text {
+    color: #23283b;
+    text-align: right;
+    line-height: 20px;
+    padding: 5px 15px 2px 15px;
+}
+
+.UserName .text strong {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.UserName .text p {
+    font-size: 11px;
+}
